@@ -12,5 +12,9 @@ public class AppTest {
 	public void test()
 	{
 		System.out.println("Hi I am sugi...");
+		
+		System.out.println("welcome to java world!!!!");
+		
+		System.out.println("Hi branch");
 	}
 }
